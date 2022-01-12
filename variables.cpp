@@ -20,4 +20,6 @@ int main (){                    // main function call
   int s = 3, f = 6, n = 4;                //declare multi variables in one line
 
   const int constantInt = 50;             //constant
+  
+  return 0;
 }
